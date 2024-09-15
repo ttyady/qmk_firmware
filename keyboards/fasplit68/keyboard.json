@@ -131,8 +131,8 @@
     "rgblight": {
         "led_count": 2,
         "animations": {
-            "alternating": true,
-            "breathing": true
+            "rainbow_swirl": true,
+            "twinkle": true
         },
         "sleep": true,
         "max_brightness": 255,
